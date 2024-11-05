@@ -1,5 +1,4 @@
 # Dog-Activity-Tracker-project-using-ESP32
-# Dog Activity Tracker
 
 A project that monitors a dog's activity using an ESP32 microcontroller, a simulated accelerometer/gyroscope, and LittleFS for data storage. The tracker categorizes activities (Resting, Walking, Running, and Playing) and stores the data for easy syncing with a mobile app.
 
